@@ -1,3 +1,3 @@
 # GitPractice
 simply for learning git
-SOMETHING
+SOMETHING NEW
